@@ -1,5 +1,3 @@
-# training_and_placement_management_system_DBMS
-
 # Training and Placement Management System (TAPMS)
 
 📌 A DBMS project built using **PHP, MySQL, HTML, CSS, JavaScript** and run on **XAMPP**.  
